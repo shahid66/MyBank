@@ -1,0 +1,39 @@
+#show{
+    margin-top: 50px;
+    padding-top: 50px;
+    
+}
+#loginPart{
+    margin-top: 50px;
+    
+}
+#addMoney{
+    margin-top: 50px;
+    
+}
+.Loginform{
+    width: 100%;
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 10px 20px 45px gray;
+}
+.item{
+    overflow: hidden;
+    width: 90%;
+    
+    
+    padding: 20px;
+    border-radius: 20px;
+}
+.formItem{
+    overflow: hidden;
+    width: 90%;
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 10px 20px 45px gray;
+}
+#fullSection{
+    display: none;
+}
